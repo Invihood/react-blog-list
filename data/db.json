@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Real text. Not really real but from my heart.",
+      "author": "Valentin",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "New site....",
+      "author": "Maxim",
+      "id": 2
+    },
+    {
+      "title": "Lera first UI/UX lesson",
+      "body": "Very nice!!!",
+      "author": "Valentin",
+      "id": 3
+    }
+  ]
+}
